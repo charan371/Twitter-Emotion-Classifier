@@ -1,8 +1,8 @@
 # Twitter-Emotion-Classifier
-**Introduction
+Introduction:
 This project implements a machine learning solution to classify emotions or feelings from text data. The goal is to train various models to accurately predict the emotion label associated with a given text. The project uses a dataset split into training, validation, and testing sets.
 
-**Dataset
+Dataset:
 The project uses three separate CSV files: training.csv, validation.csv, and test.csv. Each file contains two columns:
 
 text: The input text containing an emotion or feeling.
@@ -10,7 +10,7 @@ text: The input text containing an emotion or feeling.
 label: The corresponding numerical label for the emotion.
 
 
-**Methodology
+Methodology:
 The machine learning pipeline consists of several key steps:
 
 1. Data Pre-processing
@@ -39,7 +39,7 @@ Random Forest Classifier: Hyperparameters were tuned to find the optimal model, 
 Long Short-Term Memory (LSTM): A neural network approach was also implemented and evaluated, achieving a validation accuracy of 86.35%.
 
 
-**Dependencies
+Dependencies:
 The following Python libraries are required to run this project:
 
 pandas
