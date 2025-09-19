@@ -1,6 +1,6 @@
 # Twitter-Emotion-Classifier
 **Introduction
-**This project implements a machine learning solution to classify emotions or feelings from text data. The goal is to train various models to accurately predict the emotion label associated with a given text. The project uses a dataset split into training, validation, and testing sets.
+This project implements a machine learning solution to classify emotions or feelings from text data. The goal is to train various models to accurately predict the emotion label associated with a given text. The project uses a dataset split into training, validation, and testing sets.
 
 **Dataset
 The project uses three separate CSV files: training.csv, validation.csv, and test.csv. Each file contains two columns:
